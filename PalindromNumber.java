@@ -2,13 +2,12 @@ package com.number.problems;
 
 /**
  * Question :
- * 1. Find to Given number are palindrom or not. 
+ * 1. Find to check Given number are palindrom or not. 
  */
 
 /**
  * @author Satish
  */
-
 
 public class PalindromNumber {
 
@@ -27,9 +26,9 @@ public class PalindromNumber {
 		}
 
 		if (num == rev) {
-			System.out.println("This is Palindrom Number");
+			System.out.println("This number is Palindrom Number");
 		} else {
-			System.out.println("Not Palindrom Number");
+			System.out.println("This number is not Palindrom Number");
 
 		}
 	}
