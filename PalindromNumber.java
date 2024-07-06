@@ -1,5 +1,15 @@
 package com.number.problems;
 
+/**
+ * Question :
+ * 1. Find to Given number are palindrom or not. 
+ */
+
+/**
+ * @author Satish
+ */
+
+
 public class PalindromNumber {
 
 	public static void main(String[] args) {
