@@ -1,5 +1,14 @@
 package com.number.problems;
 
+/**
+ * Question :
+ * 1. Swap number using third variable. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class SwapNumber {
 	
 	public static void main(String[] args) {
