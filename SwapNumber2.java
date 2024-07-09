@@ -1,5 +1,15 @@
 package com.number.problems;
 
+/**
+ * Question :
+ * 1. Swap number without using third variable. 
+ */
+
+/**
+ * @author Satish
+ */
+
+
 public class SwapNumber2 {
 	
 	public static void main(String[] args) {
