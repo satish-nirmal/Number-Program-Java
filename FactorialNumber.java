@@ -1,5 +1,12 @@
 package com.number.problems;
 
+/**
+ * Question :
+ * 1. Find to given numbers factorial
+
+/**
+ * @author Satish
+ */
 public class FactorialNumber {
 
 		public static void main(String[] args) {
