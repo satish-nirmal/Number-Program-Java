@@ -2,7 +2,7 @@ package com.number.problems;
 
 /**
  * Question :
- * 1. Find to given numbers factorial
+ * 1. Find The Factorial of the given number in the program
 
 /**
  * @author Satish
