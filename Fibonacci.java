@@ -6,7 +6,7 @@ package com.number.problems;
  */
 
 /**
- * @author Satish
+ * @author Satish Nirmal
  */
 
 public class Fibonacci {
