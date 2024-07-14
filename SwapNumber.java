@@ -13,9 +13,9 @@ public class SwapNumber {
 	
 	public static void main(String[] args) {
 
-		int a = 11;
+		int a = 110;
 
-		int b = 22;
+		int b = 180;
 
 		int temp;
 
@@ -24,12 +24,6 @@ public class SwapNumber {
 		temp = a;
 		a = b;
 		b = temp;
-
-		// without using third variable
-
-//		a = a + b;
-//		b = a- b ;
-//		a = a- b;
 
 		System.out.println("a : " + a);
 		System.out.println("b : " + b);
