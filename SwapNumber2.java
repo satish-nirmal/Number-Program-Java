@@ -14,17 +14,9 @@ public class SwapNumber2 {
 	
 	public static void main(String[] args) {
 
-		int a = 11;
+		int a = 66;
 
-		int b = 22;
-
-//		int temp;
-
-		// using third variable
-
-//		temp = a;
-//		a = b;
-//		b = temp;
+		int b = 99;
 
 		// without using third variable
 
