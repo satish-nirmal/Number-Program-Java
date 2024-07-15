@@ -13,7 +13,9 @@ public class ReverseNumber {
 	
 	public static void main(String[] args) {
 
-		int num = 123456789;
+		int num = 12345;
+		
+		
 
 		int rem, rev = 0;
 
